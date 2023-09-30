@@ -19,7 +19,6 @@ windows 用戶可以打開 PowerShell ( Win+R 輸入 PowerShell) 輸入以下命
     
 ```
 
-安裝完成後會打開 G
 
 ###### 官方文件：https://cloud.google.com/sdk/docs/install-sdk?hl=zh-cn
 ###### 來源：[Cloud SDK](https://cloud.google.com/sdk?hl=zh-tw)。
